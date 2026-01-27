@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags/IUT on TechNews IUT</title>
+    <link>http://localhost:1313/tags/iut/</link>
+    <description>Recent content in Tags/IUT on TechNews IUT</description>
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Tue, 27 Jan 2026 10:24:48 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/iut/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Survivre et Prospérer : Le Guide Ultime des Bons Plans du BUT Informatique</title>
+      <link>http://localhost:1313/posts/survivre-et-prosp%C3%A9rer-guide-ultime-bons-plans-but-informatique/</link>
+      <pubDate>Tue, 27 Jan 2026 10:24:48 +0100</pubDate>
+      <guid>http://localhost:1313/posts/survivre-et-prosp%C3%A9rer-guide-ultime-bons-plans-but-informatique/</guid>
+      <description>Découvrez les meilleurs bons plans pour les étudiants en BUT Informatique à l&amp;rsquo;IUT d&amp;rsquo;Aix-en-Provence : logiciels gratuits, repas à petit prix, transports, culture et bien-être.</description>
+    </item>
+  </channel>
+</rss>
