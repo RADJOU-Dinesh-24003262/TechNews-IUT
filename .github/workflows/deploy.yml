@@ -16,12 +16,14 @@ jobs:
       - name: Set up Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.111.3'  # Remplace par la version de Hugo que tu utilises
+          hugo-version: '0.111.3'  # Spécifie une version compatible de Hugo
+
+      - name: Clean Hugo cache
+        run: hugo mod clean  # Nettoie le cache de Hugo (si nécessaire)
 
       - name: Build the site
-        run: |
-          hugo  # Cela va générer ton site dans le dossier public/
-        
+        run: hugo  # Cela va générer ton site dans le dossier public/
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
