@@ -3,7 +3,7 @@ name: Deploy Hugo site to GitHub Pages
 on:
   push:
     branches:
-      - main  # Branche à surveiller (change si tu utilises 'master' ou une autre branche)
+      - main  # Change cette branche si nécessaire
 
 jobs:
   deploy:
@@ -11,21 +11,16 @@ jobs:
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3  # Récupère le code du dépôt
+        uses: actions/checkout@v3
 
-      - name: Set up Hugo
-        uses: peaceiris/actions-hugo@v2
-        with:
-          hugo-version: '0.111.3'  # Spécifie une version compatible de Hugo
-
-      - name: Clean Hugo cache
-        run: hugo mod clean  # Nettoie le cache de Hugo (si nécessaire)
-
-      - name: Build the site
-        run: hugo  # Cela va générer ton site dans le dossier public/
-
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}  # GitHub génère ce token automatiquement
-          publish_dir: ./public  # C'est ici que Hugo génère ton site statique
+      - name: Copy public folder to root
+        run: |
+          # Crée la branche gh-pages si elle n'existe pas
+          git fetch origin gh-pages || git checkout --orphan gh-pages
+          # Copie le contenu du dossier public dans la racine du dépôt
+          cp -r public/* .
+          # Ajoute tous les fichiers
+          git add .
+          git commit -m "Déploiement du site statique depuis public/"
+          # Pousse sur gh-pages
+          git push origin gh-pages
