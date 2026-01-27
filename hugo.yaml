@@ -48,80 +48,79 @@ markup:
       xhtml: false
 
 params:
-  author : "Classe BUT 2 Groupe B Informatique 2025-2027"
+  author : "Département Informatique - IUT Aix-Marseille"
   authorimage: ../assets/images/global/author.webp
   og_image: /images/tailbliss-cover.png
-  moto: "Blog Interne - IUT Aix-Marseille"
-  description: "Le blog interne pour le département informatique de l'IUT d'Aix-Marseille."
+  moto: "Portail d'informations - Informatique IUT Aix-Marseille"
+  description: "Actualités, ressources et informations pour la communauté du département informatique de l'IUT Aix-Marseille."
   disable_theme_toggle: false
   disable_stay_uptodate: true
 
   p1:
-    heading: "Our mission"
+    heading: "Connecté à l'actualité informatique"
     image: "images/pages/our-mission.png"
     content:
-      - text: "Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum urna sed consectetur neque tristique pellentesque. Blandit amet, sed aenean erat arcu morbi. Cursus faucibus nunc nisl netus morbi vel porttitor vitae ut. Amet vitae fames senectus vitae."
-      - text: "Sollicitudin tristique eros erat odio sed vitae, consequat turpis elementum. Lorem nibh vel, eget pretium arcu vitae. Eros eu viverra donec ut volutpat donec laoreet quam urna. Sollicitudin tristique eroserat odio sed vitae, consequat turpis elementum. Lorem nibh vel, eget pretium arcu vitae. Eros eu viverra donec ut volutpat donec laoreet quam urna."
-      - text: "Rhoncus nisl, libero egestas diam fermentum dui. At quis tincidunt vel ultricies. Vulputate aliquet velit faucibus semper. Pellentesque in venenatis vestibulum consectetur nibh id. In id ut tempus egestas. Enim sit aliquam nec, a. Morbi enim fermentum lacus in. Viverra."
+      - text: "Restez informé des dernières actualités du département informatique de l'IUT Aix-Marseille. Découvrez les innovations technologiques, les opportunités de formation et les initiatives de notre établissement."
+      - text: "Notre portail rassemble les informations essentielles pour tous les étudiants et professionnels de la filière informatique. Retrouvez des articles approfondis, des ressources pédagogiques et des annonces importantes."
+      - text: "Un espace collaboratif où la connaissance se partage et où l'actualité technologique prend sens dans le contexte de nos études et de notre développement professionnel."
   p2:
-    heading: "Just in time for Hacktoberfest with JIT Tailwind."
+    heading: "Contenus organisés par thématiques"
     image: "images/pages/hacktoberfest.jpg"
     content:
-      - text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur at purus non enim commodo tincidunt vel in nulla. Aenean pretium dolor non ultricies bibendum. Etiam quis blandit enim. Nunc condimentum ut lorem in faucibus. Phasellus varius ligula et commodo tristique. Nunc sodales nisl nec laoreet vehicula. Donec velit nibh, sollicitudin at nulla a, egestas dignissim eros. Sed lacinia hendrerit interdum. Vestibulum pellentesque sem venenatis nisl tempor accumsan sit amet tempus felis. Mauris leo diam, porttitor nec bibendum id, tempus ac nulla. Etiam congue ornare erat at convallis. Donec in nisi dapibus, mattis risus vel, imperdiet enim. Donec fermentum sit amet tortor nec tincidunt. Nam nec lectus tortor. Nunc sit amet laoreet orci, porta ornare massa. Phasellus eget lorem mi. Nam eleifend ultricies sapien, quis mollis leo bibendum at. Quisque viverra lorem sit amet magna aliquet, et dignissim arcu eleifend."
-      - type: "table"
-        columns:
-          - heading: "Column 1"
-            items:
-              - "Bullet point 1"
-              - "Bullet point 2"
-              - "Bullet point 3"
-          - heading: "Column 2"
-            items:
-              - "Bullet point 4"
-              - "Bullet point 5"
-              - "Bullet point 6"
+      - text: "Nos différentes sections vous permettent de naviguer facilement parmi les sujets qui vous intéressent. De la vie du campus aux développements technologiques d'actualité, en passant par les conseils pratiques pour réussir vos études, chaque catégorie offre du contenu sélectionné et pertinent pour la communauté informatique."
   p3:
-    heading: "Backed by world-renowned investors"
+    heading: "Reconnu et soutenu par l'institution"
     content:
-      - text: "Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum urna sed consectetur neque tristique pellentesque. Blandit amet, sed aenean erat arcu morbi. Cursus faucibus nunc nisl netus morbi vel porttitor vitae ut. Amet vitae fames senectus vitae."
-    links:
-      - text: Meet our investors and advisors
-        url: "#"
+      - text: "Ce portail informatif jouit du soutien de la direction et des équipes pédagogiques de l'IUT Aix-Marseille. Il s'inscrit dans une démarche d'amélioration continue de la communication institutionnelle et du partage d'informations de qualité."
     logos:
-      - identifier: a
-        image: "images/global/sample-logo.svg"
-        alt: "a"
-      - identifier: b
-      - identifier: c
-      - identifier: d
-      - identifier: e
-      - identifier: f
+      - identifier: amu
+        image: "https://www.logotheque-vectorielle.fr/wp-content/uploads/2020/06/logo-vectoriel-aix-marsella-universite.jpg"
+        alt: "IUT Aix-Marseille"
+        url: "https://iut.univ-amu.fr/"
+      - identifier: thales
+        image: "https://cdn.worldvectorlogo.com/logos/thales-1.svg"
+        alt: "Thales"
+        url: "https://www.thalesgroup.com/"
+      - identifier: orange
+        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Orange_logo.svg/330px-Orange_logo.svg.png"
+        alt: "Orange"
+        url: "https://www.orange.com/"
+      - identifier: nasa
+        image: "https://grapheine.com/wp-content/uploads/2013/10/us-nasa-seal-logo-2560x1575.webp"
+        alt: "NASA"
+        url: "https://www.nasa.gov/"
+      - identifier: france
+        image: "https://www.radiofrance.fr/s3/cruiser-production/2018/10/bb4c1b9e-e951-4aa6-af45-1d4c3ad36beb/860_anssi.jpg"
+        alt: "Ministère de la Défense"
+        url: "https://www.defense.gouv.fr/"
+
   p4:
-    heading: "From the blog"
+    heading: "Derniers articles publiés"
     content:
-      - text: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsa libero labore natus atque, ducimus sed."
+      - text: "Consultez les derniers articles de notre rédaction. Nous publions régulièrement du contenu informatif et pertinent pour enrichir votre parcours académique et professionnel."
   p5:
-    heading: "Stay Up to Date"
+    heading: "Recevoir les mises à jour"
     content:
-      - text: "Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum urna sed consectetur neque tristique pellentesque."
+      - text: "Abonnez-vous à notre newsletter pour être tenu informé des dernières publications et actualités du département informatique."
     action: "#"
-    label: "Email address"
-    placeholder: "Enter your email"
-    button: "Notify me"
+    label: "Adresse email"
+    placeholder: "votre.email@iut.fr"
+    button: "S'abonner"
 
   social_media:
     github:
       enabled: true
-      url: 'https://github.com/nusserstudios'
+      url: 'https://github.com/RADJOU-Dinesh-24003262/TechNews-IUT/'
     facebook:
-      enabled: true
+      enabled: false
       url: 'https://facebook.com/nusserstudios'
     instagram:
-      enabled: true
+      enabled: false
       url: 'https://instagram.com/nusserstudios'
     twitter:
-      enabled: true
+      enabled: false
       url: 'https://twitter.com/nusserstudios'
+    
     
 
 menu:

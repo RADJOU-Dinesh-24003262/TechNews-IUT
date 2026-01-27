@@ -2266,7 +2266,8 @@ img[loading="lazy"] {
   "EmojiSymbols";
 }
 .prose {
-  max-width: 65ch;
+  max-width: 100ch;
+  width: 80%;
   color: var(--color-zinc-800);
 }
 .prose h1 {
