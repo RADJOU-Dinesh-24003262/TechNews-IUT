@@ -12,7 +12,7 @@ featured_image = "images/image1.webp"
 
 # BUT Informatique : les conseils pour réussir
 
-![Image Blog Conseils](/TechNews-IUT/images/article_conseils/image1.webp)
+<!--![Image Blog Conseils](/TechNews-IUT/images/article_conseils/image1.webp) -->
 
 Le BUT Informatique à l’IUT d’Aix-en-Provence, c’est un vrai challenge : il faut être motivé, organisé et prêt à charbonner un peu ! Dès la première année, le rythme est intense entre cours, TP et projets qui s’enchaînent. Pour ne pas se noyer et tirer le meilleur de la formation, il vaut mieux adopter de bonnes méthodes de travail dès le départ. Dans cet article, on te file quelques astuces pour gérer ton parcours, progresser sans stress et mettre toutes les chances de ton côté pour ton avenir pro !
 
