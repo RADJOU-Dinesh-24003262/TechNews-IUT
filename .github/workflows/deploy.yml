@@ -3,7 +3,7 @@ name: Deploy Hugo site to GitHub Pages
 on:
   push:
     branches:
-      - main  # Change cette branche si nécessaire
+      - main  # Change this branch if necessary
 
 jobs:
   deploy:
@@ -13,14 +13,19 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
 
+      - name: Set Git user
+        run: |
+          git config --global user.email "dinesh.radjou@etu.univ-amu.fr"
+          git config --global user.name "Dinesh Rajdou"
+
       - name: Copy public folder to root
         run: |
-          # Crée la branche gh-pages si elle n'existe pas
+          # Create the gh-pages branch if it doesn't exist
           git fetch origin gh-pages || git checkout --orphan gh-pages
-          # Copie le contenu du dossier public dans la racine du dépôt
+          # Copy the contents of the public folder into the root of the repository
           cp -r public/* .
-          # Ajoute tous les fichiers
+          # Add all files
           git add .
-          git commit -m "Déploiement du site statique depuis public/"
-          # Pousse sur gh-pages
+          git commit -m "Deploy static site from public/"
+          # Push to gh-pages
           git push origin gh-pages
