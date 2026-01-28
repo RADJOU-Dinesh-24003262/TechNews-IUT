@@ -1,1 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on TechNews IUT</title><link>http://localhost:40891/TechNews-IUT/categories/</link><description>Recent content in Categories on TechNews IUT</description><generator>Hugo</generator><language>fr-fr</language><lastBuildDate>Tue, 27 Jan 2026 10:24:48 +0100</lastBuildDate><atom:link href="http://localhost:40891/TechNews-IUT/categories/index.xml" rel="self" type="application/rss+xml"/><item><title>Categories/Blog</title><link>http://localhost:40891/TechNews-IUT/categories/blog/</link><pubDate>Tue, 27 Jan 2026 10:24:48 +0100</pubDate><guid>http://localhost:40891/TechNews-IUT/categories/blog/</guid><description/></item><item><title>Categories/Tech</title><link>http://localhost:40891/TechNews-IUT/categories/tech/</link><pubDate>Tue, 27 Jan 2026 10:24:48 +0100</pubDate><guid>http://localhost:40891/TechNews-IUT/categories/tech/</guid><description/></item><item><title>Categories/Vie Étudiante</title><link>http://localhost:40891/TechNews-IUT/categories/vie-%C3%A9tudiante/</link><pubDate>Tue, 27 Jan 2026 10:24:48 +0100</pubDate><guid>http://localhost:40891/TechNews-IUT/categories/vie-%C3%A9tudiante/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on TechNews IUT</title>
+    <link>https://radjou-dinesh-24003262.github.io/TechNews-IUT/categories/</link>
+    <description>Recent content in Categories on TechNews IUT</description>
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Tue, 27 Jan 2026 10:24:48 +0100</lastBuildDate>
+    <atom:link href="https://radjou-dinesh-24003262.github.io/TechNews-IUT/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Categories/Blog</title>
+      <link>https://radjou-dinesh-24003262.github.io/TechNews-IUT/categories/blog/</link>
+      <pubDate>Tue, 27 Jan 2026 10:24:48 +0100</pubDate>
+      <guid>https://radjou-dinesh-24003262.github.io/TechNews-IUT/categories/blog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Categories/Tech</title>
+      <link>https://radjou-dinesh-24003262.github.io/TechNews-IUT/categories/tech/</link>
+      <pubDate>Tue, 27 Jan 2026 10:24:48 +0100</pubDate>
+      <guid>https://radjou-dinesh-24003262.github.io/TechNews-IUT/categories/tech/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Categories/Vie Étudiante</title>
+      <link>https://radjou-dinesh-24003262.github.io/TechNews-IUT/categories/vie-%C3%A9tudiante/</link>
+      <pubDate>Tue, 27 Jan 2026 10:24:48 +0100</pubDate>
+      <guid>https://radjou-dinesh-24003262.github.io/TechNews-IUT/categories/vie-%C3%A9tudiante/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
