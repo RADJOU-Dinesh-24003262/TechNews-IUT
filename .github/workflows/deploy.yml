@@ -3,7 +3,7 @@ name: Deploy Hugo site to GitHub Pages
 on:
   push:
     branches:
-      - main  # Change this branch if necessary
+      - main
 
 jobs:
   deploy:
@@ -27,5 +27,7 @@ jobs:
           # Add all files
           git add .
           git commit -m "Deploy static site from public/"
-          # Push to gh-pages
-          git push origin gh-pages
+
+      - name: Push changes to gh-pages branch
+        run: |
+          git push https://github-actions:${{ secrets.GITHUB_TOKEN }}@github.com/RADJOU-Dinesh-24003262/TechNews-IUT.git gh-pages
