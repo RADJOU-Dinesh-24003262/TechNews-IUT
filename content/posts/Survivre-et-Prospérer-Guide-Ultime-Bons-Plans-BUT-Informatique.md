@@ -13,7 +13,7 @@ featured_image = "images/intro-iut-aix.jpg"
 
 # Le Guide Ultime des Bons Plans pour les étudiants BUT Informatique
 
-<!--![Étudiants travaillant en groupe sur des ordinateurs portables devant l'IUT d'Aix-en-Provence](/TechNews-IUT/images/intro-iut-aix.jpg) !-->
+<!--![Étudiants travaillant en groupe sur des ordinateurs portables devant l'IUT d'Aix-en-Provence](/TechNews-IUT/images/Survivre-et-Prospérer-Guide-Ultime-Bons-Plans-BUT-Informatique/intro-iut-aix.jpg) !-->
 
 **Arriver en BUT Informatique à l'IUT d'Aix-en-Provence, c'est plonger dans un univers passionnant mais intense. Entre les projets de développement (SAé), la gestion du budget et la vie sociale, il est facile de se sentir submergé dès les premières semaines. Heureusement, votre statut étudiant est une clé d'or qui ouvre de nombreuses portes. De la licence logicielle professionnelle gratuite aux repas à 1€, nous avons compilé pour vous le kit de survie indispensable pour réussir votre année 2026 sans vous ruiner.**
 
