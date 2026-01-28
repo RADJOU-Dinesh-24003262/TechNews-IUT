@@ -2305,6 +2305,11 @@ img[loading="lazy"] {
   margin-top: 1.25rem;
   margin-bottom: 1.25rem;
   line-height: 1.75;
+  text-align: justify;
+}
+.prose p:has(img) {
+  display: flex;
+  justify-content: center;
 }
 .prose a {
   color: var(--color-indigo-600);
