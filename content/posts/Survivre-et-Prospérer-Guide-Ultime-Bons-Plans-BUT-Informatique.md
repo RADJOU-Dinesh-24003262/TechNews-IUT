@@ -2,7 +2,7 @@
 date = '2026-01-27T10:24:48+01:00'
 draft = false
 title = 'Survivre et Prospérer : Le Guide Ultime des Bons Plans du BUT Informatique'
-author = "Groupe Bons Plans"
+author = "Groupe Bons Plans (jeremy, hakim, sofien)"
 authorimage = "images/global/author.webp"
 tags = ["Vie étudiante", "Bons plans", "IUT", "Informatique", "Budget étudiant", "Tech"]
 summary = "Découvrez les meilleurs bons plans pour les étudiants en BUT Informatique à l'IUT d'Aix-en-Provence : logiciels gratuits, repas à petit prix, transports, culture et bien-être."

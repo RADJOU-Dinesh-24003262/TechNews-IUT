@@ -7,12 +7,12 @@ authorimage = "images/global/author.webp"
 tags = ["Études", "IUT", "Informatique", "Conseils", "Réussir"]
 summary = "Découvrez les meilleurs bons plans pour les étudiants en BUT Informatique à l'IUT d'Aix-en-Provence : logiciels gratuits, repas à petit prix, transports, culture et bien-être."
 categories = ["Études", "Tech", "Blog"]
-featured_image = "images/image1.webp"
+featured_image = "images/article_conseils.webp"
 +++
 
 # BUT Informatique : les conseils pour réussir
 
-<!--![Image Blog Conseils](/TechNews-IUT/images/article_conseils/image1.webp) -->
+<!--![Image Blog Conseils](/TechNews-IUT/images/article_conseils/article_conseils.webp) -->
 
 Le BUT Informatique à l’IUT d’Aix-en-Provence, c’est un vrai challenge : il faut être motivé, organisé et prêt à charbonner un peu ! Dès la première année, le rythme est intense entre cours, TP et projets qui s’enchaînent. Pour ne pas se noyer et tirer le meilleur de la formation, il vaut mieux adopter de bonnes méthodes de travail dès le départ. Dans cet article, on te file quelques astuces pour gérer ton parcours, progresser sans stress et mettre toutes les chances de ton côté pour ton avenir pro !
 
@@ -47,12 +47,42 @@ Tout d’abord, cela a un intérêt par rapport à ton travail personnel et aux 
 
 Tu es autonome et sérieux ? Super ! Le travail et l’apprentissage en autonomie constituent des bons points pour réussir, mais n’oublie pas que cette méthode ne peut fonctionner sans intéractions avec des professionnels. En effet, on observe un vrai lien entre, d’une part, les absences et les difficultés rencontrées dans les matières techniques comme la programmation, et d’autre part, les résultats obtenus lors des évaluations. 
 
-Savais-tu que la présence est obligatoire d’un point de vue administratif ? En effet, bien qu'elle soit importante pour ton apprentissage, elle est obligatoire au vu de l’administration !
+Savais-tu que la présence est obligatoire d’un point de vue administratif ? En effet, bien qu'elle soit importante pour ton apprentissage, elle est obligatoire au vu de l’administration ! Chacune de tes absences doit être justifiée, sinon, au-delà de huit heures d'absences non-justifiées, tu perds des points sur ta moyenne ! 
 
-Rédaction en cours ….
+Pour justifier une absence, il suffit de contacter le secrétariat pour lui remettre un motif, comme une convocation, un certificat médical ou autre. Tu as tout le semestre pour les justifier, sinon, gare à tes notes !
 
 ## Des enseignants aux exigences variées
 
 Nous allons établir cinq profils d’enseignants pour vous permettre de vous adapter sans problèmes aux différentes méthodes d’enseignement. 
 
-Rédaction en cours...
+**Mickaël Martin Nevot** (Développement web, architecture des ordinateurs…) :
+
+    Il ne fait pas l’appel
+    Tolérant sur retards
+    Très exigeant sur la notation.
+
+**Vincent Risch** (IA, programmation système, assembleur…) :
+
+    Il tolère les retards et les absences.
+    Il ne fait pas l’appel.
+    Responsable du parcours B.
+
+**Christine Makssoud** (Droit, management, gestion des organisations…) :
+
+    Appel systématique.
+    Exigeante sur les notes. 
+    Cheffe du département.
+
+**Alexandra Salou** (Communication, PPP…) :
+
+    Elle fait rarement l’appel même si elle dit qu’elle le fera.
+    Mieux vaut ne pas venir plutôt qu’être en retard.
+    Responsable du parcours A.
+
+**Frédéric Flouvat** (Développement logiciel, base de données…) :
+
+    Appel systématique.
+    Tolère les retards mais ça l’agace !
+
+
+*Bien noter que l’on parle de l’appel lors des cours magistraux et qu’il est fait systématiquement lors des TD et TP, quel que soit l’enseignant !*
