@@ -14,7 +14,7 @@ Ce portail d'informations a été créé et développé par une équipe dédiée
 
 ### Rédaction en Chef et Développement
 
-- [**Dinesh Radjou**](dineshradj.eu) - Co-responsable éditorial et développement
+- [**Dinesh Radjou**](https://dineshradj.eu) - Co-responsable éditorial et développement
 - **Vasili Renier** - Co-responsable éditorial et développement
 - **Riad Megnouche** - Co-responsable éditorial et développement
 
