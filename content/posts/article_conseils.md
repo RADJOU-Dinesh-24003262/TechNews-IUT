@@ -22,7 +22,7 @@ La chose importante à appliquer dès ton entrée en BUT informatique est d’or
 
 Tout d’abord, l’écoute active est indispensable pour restituer de manière satisfaisante les connaissances et compétences acquises en cours lors des évaluations. Cela passe par une prise de note pertinente sur un support qu’il faut déterminer en fonction de tes préférences : sur papier ou sur ordinateur. 
 
-Pour t’aider à suivre les cours, les ressources les concernant sont directement disponibles sur la plateforme Ametice mis à disposition pour les tous les étudiants ! En effet, les enseignants ont la possibilité de déposer leurs cours, les sujets de TP et certaines évaluations dans l’espace dédié à la ressource enseignée. Cela constitue un vrai bénéfice pour les études et tu dois en tirer partie ! 
+Pour t’aider à suivre les cours, les ressources les concernant sont directement disponibles sur la plateforme [Ametice](https://ametice.univ-amu.fr/) mis à disposition pour les tous les étudiants ! En effet, les enseignants ont la possibilité de déposer leurs cours, les sujets de TP et certaines évaluations dans l’espace dédié à la ressource enseignée. Cela constitue un vrai bénéfice pour les études et tu dois en tirer partie ! 
 
 *“Les ressources mis à disposition sur Ametice par les enseignants me permettent de compléter mes prises de notes ! Cela facilite également le partage des consignes et de centraliser les sujets sur un seul espace dédié à une matière.”*
 
@@ -61,11 +61,15 @@ Nous allons établir cinq profils d’enseignants pour vous permettre de vous ad
     Tolérant sur retards
     Très exigeant sur la notation.
 
+*Il possède également son propre [site web](https://www.mickael-martin-nevot.com/) sur lequel il met ses cours.*
+
 **Vincent Risch** (IA, programmation système, assembleur…) :
 
     Il tolère les retards et les absences.
     Il ne fait pas l’appel.
     Responsable du parcours B.
+
+*Il possède également son propre [site web](https://pageperso.lis-lab.fr/vincent.risch/) sur lequel il met ses cours.*
 
 **Christine Makssoud** (Droit, management, gestion des organisations…) :
 
