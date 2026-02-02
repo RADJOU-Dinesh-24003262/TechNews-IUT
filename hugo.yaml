@@ -202,3 +202,17 @@ module:
   hugoVersion:
     extended: true
     min: "0.148.2"
+
+related:
+  threshold: 40
+  includeNewer: true
+  toLower: false
+  indices:
+    - name: keywords
+      weight: 100
+    - name: tags
+      weight: 100
+    - name: categories
+      weight: 50
+    - name: date
+      weight: 10
