@@ -18,13 +18,6 @@ Ce portail d'informations a été créé et développé par une équipe dédiée
 - **Vasili Renier** - Co-responsable éditorial et développement
 - **Riad Megnouche** - Co-responsable éditorial et développement
 
-### Rédacteurs et Contributeurs
-
-- **Contributor 1** - Domaines couverts : [À compléter]
-- **Contributor 2** - Domaines couverts : [À compléter]
-- **Contributor 3** - Domaines couverts : [À compléter]
-
-[Espace pour ajouter d'autres contributeurs]
 
 ## Notre Approche
 

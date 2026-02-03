@@ -16,9 +16,9 @@ En tant qu’étudiant, il faut pouvoir manger à moindre coût, mais il faut é
 
 | CROUS (Nom) | Avantages | Inconvénients | Distance/Temps de trajet depuis l'IUT | Offre Spécifique / Promotions |
 | ----- | ----- | ----- | ----- | ----- |
-| [**RU Fenouillères (Proche Faculté de lettres et IUT)**](https://share.google/H0skRdEBbyLDkcnSh) | **Repas complets (chauds/froids), tarif social, très grande capacité.** | **Forte affluence à midi (grandes queues d’environ 20 min avant de pouvoir entrer)** | **Environ 5 minutes à pied.** | **Repas à 1€ pour les boursiers et étudiants précaires, formule complète à 3.30€ pour tous les autres.** |
+| [**RU Fenouillères (Proche Faculté de lettres et IUT)**](https://maps.app.goo.gl/92T74FxK7spfMQST8) | **Repas complets (chauds/froids), tarif social, très grande capacité.** | **Forte affluence à midi (grandes queues d’environ 20 min avant de pouvoir entrer)** | **Environ 5 minutes à pied.** | **Repas à 1€ pour les boursiers et étudiants précaires, formule complète à 3.30€ pour tous les autres.** |
 | **Cafétéria IUT (Site principal)** | **Proximité immédiate (sur le campus), idéal pour une pause rapide.** | **Choix réduit (souvent snacks/sandwichs/salades), forte affluence à midi (prévoir son repas à la pause du matin éventuellement)** | **Sur place.** | **Formules rapides (sandwich, salade, plat du jour simple) à 1€ en formule pour les étudiants boursiers et environ 3.30€ pour tous les autres.** |
-| [**RU Les Gazelles**](https://share.google/sQGq8wSHyhs6ZGkDe) | **Emplacement central, près des commerces et du centre historique.** | **Plus éloigné de l'IUT, moins fréquenté pendant les heures de pointe (12h).** | **Environ 12 minutes de marche à pied.** | **Plusieurs stands (choix des entrées, choix des desserts, choix des sources de protéines, stand burger/frites avec choix du pain, sauces, crudités, protéine animale ou végétarienne, plats végé, etc.). Crous proposant beaucoup de variétés pour 1€ pour les boursiers et étudiants précaires, et 3.30€ pour tous les autres.** |
+| [**RU Les Gazelles**](https://maps.app.goo.gl/FjACjwnHbnDKhAmKA) | **Emplacement central, près des commerces et du centre historique.** | **Plus éloigné de l'IUT, moins fréquenté pendant les heures de pointe (12h).** | **Environ 12 minutes de marche à pied.** | **Plusieurs stands (choix des entrées, choix des desserts, choix des sources de protéines, stand burger/frites avec choix du pain, sauces, crudités, protéine animale ou végétarienne, plats végé, etc.). Crous proposant beaucoup de variétés pour 1€ pour les boursiers et étudiants précaires, et 3.30€ pour tous les autres.** |
 
 Petit résumé :
 
@@ -31,19 +31,19 @@ III. Les bons plans et promotions pour manger dehors
 Si vous cherchez les meilleures adresses de restaurants ou de snacks pour manger dans Aix et qu’au passage vous ne diriez pas non à de petits bons plans, voici notre sélection rien que pour vous :
 
 * **Restauration Rapide/Snacks avec Offres Étudiantes :**  
-  * [**Crouzzeria**](https://share.google/sQGq8wSHyhs6ZGkDe) **:**  
+  * [**Crouzzeria**](https://maps.app.goo.gl/4VVDTfwgWQEd6xRs7) **:**  
     * Type : Pizzeria  
     * Tarifs : environ 6€  
     * Localisation : 31 Av. Jules Ferry, 13100 Aix-en-Provence  
     * Horaires : 18h-23h du Lundi au Vendredi  
     * Description : Pizza au feu de bois et repas avec entrée, plat, dessert pour 1€. Possibilité d’acheter des desserts et des boissons aussi.  
-  * [**Pizza cut**](https://share.google/5UKEBQ5rwJ3W79nD6) **:**  
+  * [**Pizza cut**](https://maps.app.goo.gl/zJ3PwoRwrS7vj4159) **:**  
     * Type : Pizzeria  
     * Tarifs : Toutes les pizzas au feu de bois à 5€  
     * Localisation : 26 Avenue de l'Europe, Aix-en-Provence  
     * Horaires : de 17h00 à 23h00 tous les jours.  
     * Description : Cette petite pizzeria propose tous les types de pizzas cuites au feu de bois pour un tarif très compétitif de seulement 5€. Pour sa qualité élevée, cette pizzeria offre donc un très bon rapport qualité prix.  
-* **Applications de réduction :** [Too Good To Go](https://www.toogoodtogo.com/fr?utm_term=&utm_source=adwords&utm_medium=ppc&utm_campaign=&hsa_net=adwords&hsa_ad=&hsa_acc=2882638550&hsa_src=x&hsa_cam=20939911407&hsa_ver=3&hsa_kw=&hsa_tgt=&hsa_grp=&hsa_mt=&gad_source=1&gad_campaignid=20946420872&gclid=Cj0KCQiA4eHLBhCzARIsAJ2NZoKq7M1zpZakE8ikXwpp9znc6RyLA3ylhTZjyNFnUYIo1Gouo9nqdSIaArqwEALw_wcB), [Phenix](https://play.google.com/store/apps/details?id=com.phenix.cajou&referrer=adjust_reftag%3Dc5u9nWljR6e9a%26utm_source%3DSite%2BPhenix&pli=1), [Compass](https://apps.apple.com/fr/app/carte-compass/id1639491964), etc.  
+* **Applications de réduction :** [Too Good To Go](https://apps.apple.com/fr/app/too-good-to-go-pas-de-gaspi/id1060683933), [Phenix](https://apps.apple.com/fr/app/phenix-bons-plans-anti-gaspi/id1437997699), [Compass](https://apps.apple.com/fr/app/carte-compass/id1639491964), etc.  
   * Des applications anti-gaspi existent comme Too Good To Go et/ou Phenix :  
     Too Good To Go et Phenix sont des solutions parfaites pour les étudiants qui souhaitent faire attention à leur budget tout en agissant contre le gaspillage alimentaire. Ces applications proposent des produits sous forme de paniers à moindre coût. Cela permet aux entreprises de sauver des aliments qui sont encore bons et aux consommateurs de bénéficier de tarifs avantageux et parfois tout en se faisant plaisir dans les boulangeries/ pâtisseries par exemple.  
   * L’application de bons plans pour les étudiants (Compass) :  
@@ -57,10 +57,9 @@ Si vous êtes en difficulté pour manger convenablement en tant qu’étudiant. 
 
 * **Maraudes et Distributions Alimentaires :**  
   * Les Dimanches 18h, dans la résidence étudiante Les Gazelles (\[lien suspect supprimé\]), il a des distributions de produits de première nécessité à l’intention des étudiants.  
-    * Attention il faut venir avec un sac et une pièce de 2€ de participation.  
-  * Régulièrement à la Cité Universitaire Cuques, il y a des maraudes proposant des paniers contenant fruits et légumes, de la nourriture, du pain etc…  
-    * Pour connaître les jours où elles ont lieu, il faut rejoindre le groupe Whatsapp des étudiants via un QR code dans les hall d’entrée des différents CROUS.  
-  * Parfois d’autres dons ont lieu, mais pour s’en tenir informé il faut rejoindre le groupe Whatsapp des étudiants d' Aix.  
+    **Attention:** Il faut venir avec un sac et une participation de 2€.  
+  * A la Cité Universitaire Cuques, de manière presque hebdomadaire, il y a des maraudes proposant des paniers contenant fruits et légumes, de la nourriture, du pain etc…  
+    **Attention:** Pour connaître les jours où elles ont lieu, il faut rejoindre le groupe Whatsapp des étudiants via un QR code dans les hall d’entrée des différents logements CROUS.  
   * Enfin, une épicerie solidaire existe à Aix-en-Provence et elle se situe au cube dans la fac de lettres de Schuman. Elle propose tout ce qui est considéré comme de première nécessité (huile, farine, lait, conserves, produits de beauté, produts ménagers etc…) à un prix plus qu' attractif (80% de réduction par rapport aux supermarchés traditionnels). Cette épicerie a vu le jour grâce à l'association Solid’AM qui paye la différence de prix des articles.
 
 V. Faire ses courses : où et comment économiser
@@ -71,11 +70,10 @@ Voici un tableau comparatif des options de magasins pour les courses dans l’or
 
 | Magasin (Nom) | Type (Hard Discount, Supermarché, Marché) | Proximité IUT (Distance/Transport) | Variété des produits | Adresse |
 | ----- | ----- | ----- | ----- | ----- |
-| [Aldi](https://apps.apple.com/fr/app/carte-compass/id1639491964) | Hard Discount | 20 min de Bus environ avec la ligne 9 | Boulangerie, pâtisseries, conserves, fruits et légumes, surgelé, viandes, alimentaire, produits ménagers, produits de beauté | 55-57 Av. de l'Europe, 13100 Aix-en-Provence |
-| [U Express](https://share.google/5k5fWCdAo2XCLjIhm) | Supermarché | 20 min de bus environ avec la ligne 9 ou la A | Boulangerie, pâtisseries, conserves, fruits et légumes, surgelé, viandes, alimentaire, produits ménagers, produits de beauté | Av. de l'Europe, 13090 Aix-en-Provence |
-| [Carrefour Market](https://share.google/53c58LikbuPcPzZ33) | Supermarché de proximité | 20 min de bus environ avec la ligne 8 | Boulangerie, pâtisseries, conserves, fruits et légumes, surgelé, viandes, alimentaire, produits ménagers, produits de beauté | 2 Trav. du Cirque, 13100 Aix-en-Provence |
-| [Monoprix](https://share.google/lsGUMkx3ZeR3e3xVn) | Supermarché de proximité | 20 min de bus environ avec la ligne A | Boulangerie, pâtisseries, conserves, fruits et légumes, surgelé, viandes, alimentaire, produits ménagers, produits de beauté | 27 Cr Mirabeau, 13100 Aix-en-Provence et 515 Av. Max Juvénal, 13100 Aix-en-Provence |
-| [Spar](https://share.google/DFjhu5ghKo91Jesm8) | Superette \+++ | 20 min de bus environ avec la ligne A | conserves, fruits et légumes, alimentaire, produits ménagers, produits de beauté | 12 Av. des Belges, 13100 Aix-en-Provence |
+| [Aldi](https://maps.app.goo.gl/bMN3KBGSP7j25iEh7) | Hard Discount | 20 min de Bus environ avec la ligne 9 | Boulangerie, pâtisseries, conserves, fruits et légumes, surgelé, viandes, alimentaire, produits ménagers, produits de beauté | 55-57 Av. de l'Europe, 13100 Aix-en-Provence |
+| [U Express](https://maps.app.goo.gl/KRABK6mpUKarJZgJ7) | Supermarché | 20 min de bus environ avec la ligne 9 ou la A | Boulangerie, pâtisseries, conserves, fruits et légumes, surgelé, viandes, alimentaire, produits ménagers, produits de beauté | Av. de l'Europe, 13090 Aix-en-Provence |
+| [Carrefour Market](https://maps.app.goo.gl/GZUDqFBQmBsQrCEq8) | Supermarché de proximité | 20 min de bus environ avec la ligne 8 | Boulangerie, pâtisseries, conserves, fruits et légumes, surgelé, viandes, alimentaire, produits ménagers, produits de beauté | 2 Trav. du Cirque, 13100 Aix-en-Provence |
+| [Monoprix](https://maps.app.goo.gl/RsM8Zfra4av7KFsz9) | Supermarché de proximité | 20 min de bus environ avec la ligne A | Boulangerie, pâtisseries, conserves, fruits et légumes, surgelé, viandes, alimentaire, produits ménagers, produits de beauté | 27 Cr Mirabeau, 13100 Aix-en-Provence et 515 Av. Max Juvénal, 13100 Aix-en-Provence |
 
 * Petit conseil budget :  
   Pour faire des économies, il peut être bien de planifier vos repas (de la semaine ou du mois si possible) afin de pouvoir faire ses achats en gros. Cela peut être intéressant car en général le prix à l’unité est plus bas quand on achète en gros que quand on achète en petite quantité ou à l’unité.

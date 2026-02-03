@@ -2,11 +2,12 @@
 date = '2026-01-27T11:30:00+01:00'
 draft = false
 title = 'Le tutorat à l’IUT : un accompagnement clé pour la réussite des étudiants'
-author = "Alexis BARBERIS, Younes BENAHMED, Jeremy WATRIPONT"
+author = "Alexis Barberis, Younes Benahmed, Jérémy Watripont"
 authorimage = "images/global/author.webp"
-tags = ["Vie étudiante", "IUT", "Informatique"] 
+tags = ["IUT", "Campus", "Engagement", "Enseignement","Entraide"]
 summary = "Le tutorat est un accompagnement des élèves en difficultés par d’autres élèves. C’est plus que du partage de savoir, c’est un vrai engagement qui démontre la fraternité au sein de l’IUT"
-categories = ["Vie étudiante", "Blog"]
+categories = ["Enseignement", "Blog"]
+featured_image = "images/tutorat-iut.png"
 +++
 
 Au sein de l’IUT, le tutorat joue un rôle essentiel dans l’accompagnement des étudiants, en particulier ceux de première année. Fondé sur l’entraide entre pairs, ce dispositif vise à faciliter la compréhension des cours, renforcer les compétences et améliorer les résultats académiques. À travers le témoignage d’un tuteur et de plusieurs étudiants tutorés, cet article met en lumière l’impact concret du tutorat au sein du département informatique.
@@ -15,9 +16,14 @@ Au sein de l’IUT, le tutorat joue un rôle essentiel dans l’accompagnement d
 
 Dinesh Radjou est étudiant en deuxième année de BUT Informatique, dans le parcours B orienté sécurité et réseaux. Tuteur depuis la mi-octobre, il a choisi de s’investir dans ce rôle afin d’aider les étudiants de première année, mais aussi pour donner davantage de sens à son parcours universitaire.
 
-Son rôle consiste à accompagner les élèves dans leur progression académique. Avant chaque séance, il échange avec les étudiants afin d’identifier les notions qui posent le plus de difficultés. Il prépare ensuite ses interventions en fonction des besoins exprimés. Lors des séances, il commence par un rappel des notions essentielles, puis répond aux questions et propose parfois des exercices afin de consolider les acquis.
+Son rôle consiste à accompagner les élèves dans leur progression académique. Avant chaque séance, il échange avec les étudiants afin d’identifier les notions qui posent le plus de difficultés. Il prépare ensuite ses interventions en fonction des besoins exprimés. Lors des séances, il commence par un rappel des notions essentielles, puis répond aux questions et propose parfois des exercices afin de consolider les acquis. Le tuteur enseigne dans une ambiance chaleureuse. 
 
-Pour Dinesh, certaines qualités sont indispensables pour exercer ce rôle efficacement. Il met particulièrement en avant l’écoute et l’attention portée aux élèves. Comprendre leurs difficultés et s’adapter à leur rythme lui semble essentiel pour instaurer un climat de confiance et favoriser l’apprentissage.
+Pour Dinesh, certaines qualités sont indispensables pour exercer ce rôle efficacement. Il met particulièrement en avant l’écoute et l’attention portée aux élèves. Comprendre leurs difficultés et s’adapter à leur rythme lui semble essentiel pour instaurer un climat de confiance et favoriser l’apprentissage. Ce qui change des cours avec les professeurs, c’est une certaine proximité entre étudiants qui fait que les tutorés n’ont pas l’impression d’être en cours. C’est un moment bienveillant, il n’y a pas de jugement que de l’aide et de l’envie d’apprendre.
+
+<video controls lang="fr">
+    <source src="/TechNews-IUT/videos/interview-tuteur.mp4" type="video/mp4">
+    Votre navigateur ne supporte pas la balise vidéo.
+</video>
 
 ## Le point de vue des étudiants tutorés
 
@@ -31,7 +37,7 @@ Les effets du tutorat sur la progression sont bien réels, même s’ils varient
 
 Un étudiant souligne également que, même sans un fort attrait pour l’informatique, le tutorat a eu un impact positif sur ses résultats :
 
-> « Personnellement, je ne suis pas trop intéressé par l’informatique, donc ça ne me sert pas énormément, mais ça m’a quand même aidé à avoir de meilleurs résultats. »
+> « Personnellement, je ne suis pas trop intéressé par l’informatique, [...] mais ça m’a quand même aidé à avoir de meilleurs résultats. »
 
 Les séances portent principalement sur les matières informatiques, mais peuvent également concerner les mathématiques :
 
@@ -51,6 +57,3 @@ Le tutorat à l’IUT apparaît ainsi comme un véritable levier de réussite. E
 
 - Interview de Dinesh Radjou, étudiant en BUT Informatique, tuteur à l’IUT  
 - Témoignages d’étudiants tutorés (enregistrements audio)
-
-
-

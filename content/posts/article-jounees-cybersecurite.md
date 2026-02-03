@@ -31,9 +31,9 @@ Découvrez également les projets d’étudiants qui seront présentés au campu
 
   
 
-Ce projet sera présenté aux lycéennes de l’association, le mercredi après-midi après leurs cours au campus, qui ont elles-même accepté d’utiliser leur temps libre pour participer à cet événement.
+Ce projet sera présenté aux lycéennes de l’association, le mercredi après-midi après leurs cours au campus, qui ont elles-mêmes accepté d’utiliser leur temps libre pour participer à cet événement.
 
-Les sites étant hébergés en ligne, il est donc **accessible pour tous**, surtout les élèves qui pourront y accéder le jour-même.
+Les sites étant hébergés en ligne, il est donc **accessible pour tous**, surtout les élèves qui pourront y accéder le jour même.
 
   
 
@@ -49,7 +49,7 @@ Le site [CyberCigales](https://benahmed.alwaysdata.net) présente aux étudiante
 
   
 
-Pour rendre le tout plus intéressant et ludique, le site est parsemé d’**énigmes et de mini-jeu**, le tout empaqueté dans une simulation d'environnement de bureau dans lequel tous les éléments se confondent harmonieusement. La progression est **non linéaire** et permet aux utilisateurs eux même leur propre route vers la conclusion de l’histoire.
+Pour rendre le tout plus intéressant et ludique, le site est parsemé d’**énigmes et de mini-jeu**, le tout empaqueté dans une simulation d'environnement de bureau dans lequel tous les éléments se confondent harmonieusement. La progression est **non linéaire** et permet aux utilisateurs eux-mêmes leur propre route vers la conclusion de l’histoire.
 
   
 
@@ -57,9 +57,9 @@ Pour rendre le tout plus intéressant et ludique, le site est parsemé d’**én
 
   
 
-[EscapeTheCode](https://escapethecode.alwaysdata.net) propose une **expérience de jeu** mélangeant **réflexion, logique et déduction** à travers diverses notions de cybersécurité. Il demande un esprit de curiosité pour guider le joueur à travers différents **niveaux à thèmes**, chacun nécessitant la maîtrise d’un nouveau concept, de nouvelles ressources, etc… Les élèves ressortiront alors déjà **formés et familiarisés** avec le chiffrage, les bonnes pratiques de sécurité personnelle, et bien plus à travers ce fil narratif.
+[EscapeTheCode](https://escapethecode.alwaysdata.net) propose une **expérience de jeu** mélangeant **réflexion, logique et déduction** à travers diverses notions de **cybersécurité et cryptographie**. Il demande un esprit de curiosité pour guider le joueur à travers différents **niveaux à thèmes**, chacun nécessitant la maîtrise d’un nouveau concept, de nouvelles ressources, etc… Les élèves ressortiront alors déjà **formés et familiarisés** avec le chiffrage, les bonnes pratiques de sécurité personnelle, et bien plus à travers ce fil narratif.
 
-  
+Les joueuses pourront suivre **l’histoire de deux personnages**, nommés Alice et Bob. À travers leurs aventures, elles **résoudront des mystères** grâce aux notions de la **cryptographie** et de la **cybersécurité** qu’elles auront acquises durant leurs parcours.
 
 ## 19-20 Mars - AMUSEC
 
@@ -77,9 +77,19 @@ Ces journées présentent une grande opportunité pour acquérir des connaissanc
 
   
 
-> *AMUSEC est un événement de deux jours organisé par Aix-Marseille Université et dédié à la R&D, à l’innovation et aux bonnes pratiques en matière de sécurité informatique. C’est un forum pluridisciplinaire destiné à l’échange et au partage de la communauté de la cybersécurité, qu’elle soit académique, institutionnelle ou industrielle (enseignants, chercheurs, étudiants, ingénieurs, RSSI, chefs de projet, architectes, développeurs, auditeurs, pentesters, ou hackers éthiques).*  (CIRM)
+> *AMUSEC est un événement de deux jours organisé par Aix-Marseille Université et dédié à la R&D, à l’innovation et aux bonnes pratiques en matière de sécurité informatique. C’est un forum pluridisciplinaire destiné à l’échange et au partage de la communauté de la cybersécurité, qu’elle soit académique, institutionnelle ou industrielle (enseignants, chercheurs, étudiants, ingénieurs, RSSI, chefs de projet, architectes, développeurs, auditeurs, pentesters, ou hackers éthiques).*  (*CIRM*)
+
+  
+L’événement présente un **lien grandement attendu entre le monde théorique de l’éducation et la pratique du monde professionnel**, et offrira pour beaucoup un regard sur leur potentiel avenir. Plus concrètement, l’événement fera sujet d’**une courte formation** et d’**une certification** au sujet du ***quantum computing*** que pourront acquérir les participants.
 
   
 
-L’événement présente **un lien grandement attendu entre le monde théorique de l’éducation et la pratique du monde professionnel**, et offrira pour beaucoup un regard sur leur potentiel avenir. Plus concrètement, l’événement fera sujet d’une petite **formation** et d’une **certification** que pourront acquérir les participants, et ainsi prouver qu’ils sont conscients des enjeux réels et actuels du milieu.
+Le ***quantum computing*** ou l’**informatique quantique** est un domaine de grande actualité, qui risque de **bouleverser le monde de l’informatique**, mais surtout et avant tout **l'entièreté des systèmes cryptographiques** (utilisés sur internet pour chiffrer des informations, comme la transmission des messages, les transactions, les mots de passe). C’est un **danger réel et imminent**, et pourtant peu d’entreprises se montrent réellement clairvoyantes et concernées.
 
+  
+
+> *Pourtant, une enquête menée par Capgemini auprès de 1 000 grandes entreprises du monde entier montre que ***30 %*** d’entre elles n’ont ***aucun projet de cybersécurité post-quantique (PQC) en cours*** et ne prévoient pas d’en lancer ces cinq prochaines années. Et ce, alors que ***92 %*** d’entre elles ont été ***victimes de failles de sécurité dans les douze derniers mois !**** (*CapGemini, 15 Octobre 2025*)
+
+  
+
+Une telle certification est l’opportunité de **prouver votre conscience des enjeux réels et expressément actuels du milieu de la Cybersécurité**.
