@@ -596,5 +596,4 @@ L’IUT met à disposition des salles informatiques équipées, les logiciels n�
 *Du moment que la personne aime les sciences et s'en sort en maths, il peut facilement accéder au BUT Informatique. Le problème reste la deuxième année, cependant, qui est difficile pour tous.*
 
 ### Video Nicolas DARIETTO 3e année Parcour B
-Vidéo en cours de réalisation à l’heure actuelle et n’est donc a ce jour, pas encore disponible
-[INSÉRER VIDÉO : videos/interview-nico.mp4]
+Voicis le liens de l’interview au complet de Nicolas sur youtube : https://youtu.be/glJFbkvs0LM
